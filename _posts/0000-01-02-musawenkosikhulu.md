@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to my website!"
 ---
-Musawenkosi Khulu
+Musawenkosi Elvis Khulu
 Use the arrow to navigate!
